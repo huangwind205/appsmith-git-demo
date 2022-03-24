@@ -1,0 +1,103 @@
+{
+  "fileFormatVersion": 1,
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 2,
+  "publishedDefaultPageName": "Page1",
+  "unpublishedDefaultPageName": "Page1",
+  "invisibleActionFields": {
+    "Page1_Query7Copy": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page2_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query5": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query6": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Api3": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query3": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Api2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query4": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query7": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query8": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_Query2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page2_Query1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    }
+  },
+  "editModeTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": [
+      {
+        "permission": "read:themes",
+        "users": [
+          "anonymousUser"
+        ],
+        "groups": []
+      }
+    ]
+  },
+  "publishedTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": [
+      {
+        "permission": "read:themes",
+        "users": [
+          "anonymousUser"
+        ],
+        "groups": []
+      }
+    ]
+  },
+  "publishedLayoutmongoEscapedWidgets": {},
+  "unpublishedLayoutmongoEscapedWidgets": {}
+}

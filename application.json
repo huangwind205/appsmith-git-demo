@@ -1,0 +1,15 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F5D1D1",
+  "icon": "globe",
+  "slug": "untitled-application-1",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1644489425,
+    "nanos": 605000000
+  },
+  "deleted": false
+}
